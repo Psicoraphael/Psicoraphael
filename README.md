@@ -1,8 +1,15 @@
-### Olá! Eu sou o Raphael "Psico" Garcia 😉
+<div align="center">
+  Olá! Eu sou o Raphael "Psico" Garcia 😉
+  <img align="center" alt="Raphael-Gif" height="100" src="https://media.discordapp.net/attachments/820683590722781277/894080487193210880/GitHub_-_Gif.gif">
+</div>
+ 
+ #
  
 <div align="center">
   <a href="https://github.com/psicoraphael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=psicoraphael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
 
 <div align="center"> 
@@ -13,8 +20,6 @@
   <img align="center" alt="Raphael-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Raphael-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
-  
-  <img align="right" alt="Raphael-Gif" height="150" src="https://media.discordapp.net/attachments/820683590722781277/894080487193210880/GitHub_-_Gif.gif">
     
   ##
   
