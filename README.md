@@ -1,6 +1,6 @@
 <div align="center">
   Olá! Eu sou o Raphael "Psico" Garcia 😉
-  <img align="center" alt="Raphael-Gif" height="100" src="https://media.discordapp.net/attachments/820683590722781277/894080487193210880/GitHub_-_Gif.gif">
+  <img align="center" alt="Raphael-Gif" height="180" src="https://media.discordapp.net/attachments/820683590722781277/894351584685854780/output_JSEiAX.gif?width=637&height=637">
 </div>
  
  #
