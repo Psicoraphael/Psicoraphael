@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Raphael "Psico" Garcia 👋
 
 <div align="center">
-  <a href="https://github.com/Psicoraphael">
+  <a href="https://github.com/psicoraphael">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=psicoraphael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
